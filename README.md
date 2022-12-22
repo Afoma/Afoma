@@ -1,7 +1,7 @@
 ### Hi there, I'm Afoma 👋
 
 
-- 🔭 I’m currently working on the Web3 and blockchain development
+- 🔭 I’m currently working on Web3 and blockchain development
 - 👯 I’m looking to collaborate on amazing and innovative projects
 - 🌱 I'm presently solidifying my JavaScript and TypeScript
 - 🤔 I'm open to frontend development and developer relations engineering roles in the Web3 space
