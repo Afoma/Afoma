@@ -1,3 +1,10 @@
+# Hi there
+<br>
 
-- 📫 You can connect with me on [Linkedin](https://www.linkedin.com/in/afomaorji/), [Gmail](https://antoinetteorji@gmail.com/), [Twitter](https://twitter.com/afoma_orji). Also feel free to read my articles on [my dev blog](https://afy.afomaorji.com)
-- ⚡ Fun fact: I dream of travelling to beautiful places and trying out healthy foods I've not eaten before 😊
+I'm Afoma Orji, a passionate software engineer, skilled in Solidity, JavaScript, React.js, proficient in building smart contracts and web applications, and passionate about contributing to the Web3 space and advocating for developers.
+
+I am currently expanding my skills to become a smart contract auditor.
+
+You can connect with me on [Linkedin](https://www.linkedin.com/in/afomaorji/), [Gmail](https://antoinetteorji@gmail.com/), [Twitter](https://twitter.com/afoma_orji).
+
+I write articles on [my dev blog](https://afy.afomaorji.com)
